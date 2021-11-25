@@ -13,4 +13,4 @@ Machine learning project used to detect ADHD based on the given ADHD and Control
 <li>Then, optimum number of dimensions in PCA was found(optimum value is 5).
 <li>Many Supervised and Unsupervised Learning Algorithms were used to build the model and compared all the models using different evaluation metrics.
 <li>Trained the before combined data with different machine algorithms and performed different evaluation metrics.
-<li>The below table shows all the accuracy score of the models and the respective model name.
+<li>The table in the notebook shows all the accuracy score of the models and the respective model name.
